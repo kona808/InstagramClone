@@ -32,6 +32,7 @@
 		FF57527929795BD0006B6C4E /* SearchResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF57527829795BD0006B6C4E /* SearchResultViewController.swift */; };
 		FF57527B29795C12006B6C4E /* PostEditorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF57527A29795C12006B6C4E /* PostEditorViewController.swift */; };
 		FF57527D29795C2D006B6C4E /* PublishPostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF57527C29795C2D006B6C4E /* PublishPostViewController.swift */; };
+		FFECBEEB297977720063CC2D /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFECBEEA297977720063CC2D /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,6 +65,7 @@
 		FF57527829795BD0006B6C4E /* SearchResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultViewController.swift; sourceTree = "<group>"; };
 		FF57527A29795C12006B6C4E /* PostEditorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostEditorViewController.swift; sourceTree = "<group>"; };
 		FF57527C29795C2D006B6C4E /* PublishPostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PublishPostViewController.swift; sourceTree = "<group>"; };
+		FFECBEEA297977720063CC2D /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -159,6 +161,7 @@
 				FF285EA229796FEB00842AB7 /* DatabaseManager.swift */,
 				FF285EA4297970FE00842AB7 /* AuthManager.swift */,
 				FF285EA62979712800842AB7 /* StorageManager.swift */,
+				FFECBEEA297977720063CC2D /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -347,6 +350,7 @@
 				FF0C10322979551D00E79F06 /* AppDelegate.swift in Sources */,
 				FF57527929795BD0006B6C4E /* SearchResultViewController.swift in Sources */,
 				FF57526929795AAE006B6C4E /* LogInViewController.swift in Sources */,
+				FFECBEEB297977720063CC2D /* Extensions.swift in Sources */,
 				FF57527729795BC2006B6C4E /* SearchViewController.swift in Sources */,
 				FF57526429795A10006B6C4E /* ProfileViewController.swift in Sources */,
 				FF285EA5297970FE00842AB7 /* AuthManager.swift in Sources */,
